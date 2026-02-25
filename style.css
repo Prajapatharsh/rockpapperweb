@@ -83,6 +83,7 @@ img{
     .choice {
         height: 120px;
         width: 120px;
+        display:flex;
     }
 
     img {
