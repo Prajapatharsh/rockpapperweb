@@ -75,6 +75,7 @@ img{
     }
 
     .choices {
+        display:flex;
         flex-direction: column;   /* stack items vertically */
         gap: 1.5rem;
         margin-top: 2rem;
@@ -83,7 +84,7 @@ img{
     .choice {
         height: 120px;
         width: 120px;
-        display:flex;
+        
     }
 
     img {
